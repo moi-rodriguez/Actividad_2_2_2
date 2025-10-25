@@ -1,6 +1,5 @@
-package com.example.app_perfulandia.ui.theme
+package com.example.app_perfulandia.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
