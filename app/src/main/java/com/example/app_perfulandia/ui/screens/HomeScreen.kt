@@ -5,7 +5,7 @@ import androidx.compose.runtime.Composable
 import com.example.app_perfulandia.ui.utils.obtenerWindowSizeClass
 
 @Composable
-fun HomeScreen2() {
+fun HomeScreen() {
     val windowSizeClass = obtenerWindowSizeClass()
     when (windowSizeClass.widthSizeClass) {
         WindowWidthSizeClass.Compact -> HomeScreenCompacta()
